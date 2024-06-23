@@ -1,0 +1,1 @@
+clang-18 llvm-18 libsdl2 +universal freetype +universal
